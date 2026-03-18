@@ -9,8 +9,5 @@
         <module name="QualityMeasurement" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="QualityMeasurement" target="20" />
-    </bytecodeTargetLevel>
   </component>
 </project>
