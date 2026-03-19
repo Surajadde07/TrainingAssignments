@@ -11,7 +11,7 @@ public class QuantityMeasurementAppUC5Test {
     }
 
 
-    @Test   
+    @Test
     public void convertYardToInches() {
         LengthUC5 y = new LengthUC5(2, LengthUC5.LengthUnit.YARDS);
         LengthUC5 r = QuantityMeasurementAppUC5.demonstrateLengthConversion(y, LengthUC5.LengthUnit.INCHES);
